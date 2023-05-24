@@ -25,3 +25,12 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+nav:
+  - Слова:
+    - Существительные:
+      - По категориям:
+        - Люди: 
+          - words/nouns/by_category/people/index.md
+          - Тело человека: words/nouns/by_category/people/parts_of_the_body/100_the_human_body.md
+          - Лицо: words/nouns/by_category/people/parts_of_the_body/101_face.md
