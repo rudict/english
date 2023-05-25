@@ -35,7 +35,10 @@ nav:
           - Тело человека: words/nouns/by_category/people/parts_of_the_body/100_the_human_body.md
           - Лицо: words/nouns/by_category/people/parts_of_the_body/101_face.md
       - A: words/nouns/a.md
+      - B: words/nouns/b.md
     - Глаголы:
       - A: words/verbs/a.md
+      - B: words/verbs/b.md
     - Прилагательные:
       - A: words/adjectives/a.md
+      - B: words/adjectives/b.md
