@@ -36,9 +36,28 @@ nav:
           - Лицо: words/nouns/by_category/people/parts_of_the_body/101_face.md
       - A: words/nouns/a.md
       - B: words/nouns/b.md
+      - C: words/nouns/c.md
+      - D: words/nouns/d.md
+      - E: words/nouns/e.md
+      - F: words/nouns/f.md
+      - G: words/nouns/g.md
+      - R: words/nouns/r.md
+      - W: words/nouns/w.md
     - Глаголы:
+      - По категориям:
+        - Люди:
+          - Тело: words/verbs/by_category/people/body.md
       - A: words/verbs/a.md
       - B: words/verbs/b.md
+      - C: words/verbs/c.md
+      - D: words/verbs/d.md
+      - W: words/verbs/w.md
     - Прилагательные:
       - A: words/adjectives/a.md
       - B: words/adjectives/b.md
+      - C: words/adjectives/c.md
+      - R: words/adjectives/r.md
+      - M: words/adjectives/m.md
+    - Наречия:
+      - M: words/adverbs/m.md
+
