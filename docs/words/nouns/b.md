@@ -23,6 +23,18 @@
 
 - [biased](/words/adjectives/b/#biased)
 
+### blush
+
+|     pr     |    ipa   |           Формы слова          |
+| :--------: | :------: | :----------------------------: |
+| [ bluhsh ] | / blʌʃ / | ед.ч.: blush<br>мн.ч.: blushes |
+
+- Смущение
+
+**Смотрите также:**
+
+- [blush(verb)](/words/verbs/by_category/people/body/#blush)
+
 ### brim
 
 |    pr    |    ipa   |         Формы слова         |
