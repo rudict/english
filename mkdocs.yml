@@ -41,8 +41,11 @@ nav:
       - E: words/nouns/e.md
       - F: words/nouns/f.md
       - G: words/nouns/g.md
+      - L: words/nouns/l.md
       - R: words/nouns/r.md
+      - V: words/nouns/v.md
       - W: words/nouns/w.md
+      - Y: words/nouns/y.md
     - Глаголы:
       - По категориям:
         - Люди:
@@ -50,14 +53,20 @@ nav:
       - A: words/verbs/a.md
       - B: words/verbs/b.md
       - C: words/verbs/c.md
-      - D: words/verbs/d.md
       - W: words/verbs/w.md
     - Прилагательные:
       - A: words/adjectives/a.md
       - B: words/adjectives/b.md
       - C: words/adjectives/c.md
-      - R: words/adjectives/r.md
+      - D: words/adjectives/d.md
+      - F: words/adjectives/f.md
+      - H: words/adjectives/h.md
       - M: words/adjectives/m.md
+      - R: words/adjectives/r.md
     - Наречия:
       - M: words/adverbs/m.md
-
+  - Фразовые глаголы:
+    - Belong: phrasal_verbs/belong.md
+    - Check: phrasal_verbs/check.md
+  - Идиомы:
+    - H: idioms/h.md
