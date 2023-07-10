@@ -27,6 +27,14 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
+  - Граматика:
+    - Для начинающих:
+      - grammar/beginner/index.md
+      - Артикль: grammar/beginner/100_article.md
+      - Окончание s/es: grammar/beginner/101_ending_s_es.md
+      - Местоимения: 
+        - Местоимения: grammar/beginner/pronouns/101_pronouns.md
+        - Указательные местоимения: grammar/beginner/pronouns/102_demonstrative_pronouns.md
   - Слова:
     - Существительные:
       - По категориям:
@@ -69,4 +77,4 @@ nav:
     - Belong: phrasal_verbs/belong.md
     - Check: phrasal_verbs/check.md
   - Идиомы:
-    - H: idioms/h.md
+    - Honest: idioms/honest.md
