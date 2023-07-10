@@ -19,4 +19,4 @@
 
 **Смотрите также:**
 
-- [to be honest (idioms)](/idioms/h/#to-be-honest-with-you)
+- [to be honest(idioms)](/idioms/honest/#to-be-honest-with-you)

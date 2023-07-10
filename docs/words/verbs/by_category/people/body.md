@@ -52,6 +52,10 @@ ing ф. (present participle): frowning<br>
 2-я ф. (past tense): frowned<br>
 3-я ф. (past participle): frowned
 
+**Смотрите также:**
+
+- [frown(noun)](/words/nouns/f/#frown)
+
 ### wink
 
 |     pr    |    ipa   |
@@ -121,92 +125,85 @@ ing ф. (present participle): yawning<br>
 2-я ф. (past tense): yawned<br>
 3-я ф. (past participle): yawned
 
+**Смотрите также:**
+
 - [yawn(noun)](/words/nouns/y/#yawn)
 
 ### snore
 
-|     pr     |    ipa    |
-| :--------: | :-------: |
-| [ blingk ] | / blɪŋk / |
+|     pr    |    ipa    |
+| :-------: | :-------: |
+| [ snawr ] | / snɔːr / |
 
-- Моргать
-- Мигать
+- Храпеть
 
 **Формы слова**
 
-I/you/we/they: blink<br>
-he/she/it: blinks<br>
-ing ф. (present participle): blinking<br>
-2-я ф. (past tense): blinked<br>
-3-я ф. (past participle): blinked
+I/you/we/they: snore<br>
+he/she/it: snores<br>
+ing ф. (present participle): snoring<br>
+2-я ф. (past tense): snored<br>
+3-я ф. (past participle): snored
+
+**Смотрите также:**
+
+- [snore(noun)](/words/nouns/s/#snore)
 
 ### lick
 
-|     pr     |    ipa    |
-| :--------: | :-------: |
-| [ blingk ] | / blɪŋk / |
+|    pr   |   ipa   |
+| :-----: | :-----: |
+| [ lik ] | / lɪk / |
 
-- Моргать
-- Мигать
+- Лизать, облизывать
 
 **Формы слова**
 
-I/you/we/they: blink<br>
-he/she/it: blinks<br>
-ing ф. (present participle): blinking<br>
-2-я ф. (past tense): blinked<br>
-3-я ф. (past participle): blinked
+I/you/we/they: lick<br>
+he/she/it: licks<br>
+ing ф. (present participle): licking<br>
+2-я ф. (past tense): licked<br>
+3-я ф. (past participle): licked
+
+**Смотрите также:**
+
+- [lick(noun)](/words/nouns/l/#lick)
 
 ### suck
 
-|     pr     |    ipa    |
-| :--------: | :-------: |
-| [ blingk ] | / blɪŋk / |
+|    pr    |   ipa   |
+| :------: | :-----: |
+| [ suhk ] | / sʌk / |
 
-- Моргать
-- Мигать
+- Сосать
 
 **Формы слова**
 
-I/you/we/they: blink<br>
-he/she/it: blinks<br>
-ing ф. (present participle): blinking<br>
-2-я ф. (past tense): blinked<br>
-3-я ф. (past participle): blinked
+I/you/we/they: suck<br>
+he/she/it: sucks<br>
+ing ф. (present participle): sucking<br>
+2-я ф. (past tense): sucked<br>
+3-я ф. (past participle): sucked
+
+**Смотрите также:**
+
+- [suck(noun)](/words/nouns/s/#suck)
 
 ### breathe
 
 |     pr     |    ipa    |
 | :--------: | :-------: |
-| [ blingk ] | / blɪŋk / |
+| [ breeth ] | / briːð / |
 
-- Моргать
-- Мигать
-
-**Формы слова**
-
-I/you/we/they: blink<br>
-he/she/it: blinks<br>
-ing ф. (present participle): blinking<br>
-2-я ф. (past tense): blinked<br>
-3-я ф. (past participle): blinked
-
-### hold your breath
-
-|     pr     |    ipa    |
-| :--------: | :-------: |
-| [ blingk ] | / blɪŋk / |
-
-- Моргать
-- Мигать
+- Дышать
 
 **Формы слова**
 
-I/you/we/they: blink<br>
-he/she/it: blinks<br>
-ing ф. (present participle): blinking<br>
-2-я ф. (past tense): blinked<br>
-3-я ф. (past participle): blinked
+I/you/we/they: breathe<br>
+he/she/it: breathes<br>
+ing ф. (present participle): breathing<br>
+2-я ф. (past tense): breathed<br>
+3-я ф. (past participle): breathed
 
 ### laugh
 
