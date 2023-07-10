@@ -24,3 +24,16 @@
 **Смотрите также:**
 
 - [familiar](/words/adjectives/f/#familiar)
+
+### frown
+
+|     pr    |    ipa    |          Формы слова          |
+| :-------: | :-------: | :---------------------------: |
+| [ froun ] | / fraʊn / | ед.ч.: frown<br>мн.ч.: frowns |
+
+- Хмурый вид
+    - "Leave me alone!" she said with a frown. ("Оставь меня в покое!" сказала она, с хмурым видом.)
+
+**Смотрите также:**
+
+- [frown(verb)](/words/verbs/by_category/people/body/#frown)
