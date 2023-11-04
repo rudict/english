@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "english"
+version = "0.1.0"
+description = ""
+authors = ["impocode <impocode@impocode.com>"]
+readme = "readme.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.4.7"
