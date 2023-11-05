@@ -24,3 +24,16 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+nav:
+  - Дорожная карта:
+    - Для начинающих:
+      - roadmap/beginner/index.md
+      - Как рассказать о себе: roadmap/beginner/100_about_yourself.md
+  - Грамматика:
+    - Части речи:
+      - Местоимения:
+        - Местоимения: grammar/parts_of_speech/pronouns/100_pronouns.md
+        - Указательные местоимения: grammar/parts_of_speech/pronouns/101_demonstrative_pronouns.md
+    - Глаголы:
+      - Глагол to be: grammar/verbs/100_to_be.md
